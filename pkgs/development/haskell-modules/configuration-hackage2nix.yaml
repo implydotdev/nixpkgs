@@ -5559,8 +5559,6 @@ broken-packages:
   - haskelldb-th
   - haskelldb-wx
   - HaskellLM
-  - HaskellNet
-  - HaskellNet-SSL
   - HaskellNN
   - Haskelloids
   - haskellscrabble

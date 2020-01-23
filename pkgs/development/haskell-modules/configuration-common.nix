@@ -1388,4 +1388,6 @@ self: super: {
   # krank-0.1.0 does not accept PyF-0.9.0.0.
   krank = doJailbreak super.krank;
 
+  HaskellNet = doJailbreak super.HaskellNet;
+
 } // import ./configuration-tensorflow.nix {inherit pkgs haskellLib;} self super
